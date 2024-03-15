@@ -1,0 +1,11 @@
+/Users/jangdawit/repos/rustudy/hello_server/target/debug/deps/libctrlc-fbf625cda39e2d7d.rmeta: /Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/lib.rs /Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/error.rs /Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/platform/mod.rs /Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/platform/unix/mod.rs /Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/signal.rs
+
+/Users/jangdawit/repos/rustudy/hello_server/target/debug/deps/libctrlc-fbf625cda39e2d7d.rlib: /Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/lib.rs /Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/error.rs /Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/platform/mod.rs /Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/platform/unix/mod.rs /Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/signal.rs
+
+/Users/jangdawit/repos/rustudy/hello_server/target/debug/deps/ctrlc-fbf625cda39e2d7d.d: /Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/lib.rs /Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/error.rs /Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/platform/mod.rs /Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/platform/unix/mod.rs /Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/signal.rs
+
+/Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/lib.rs:
+/Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/error.rs:
+/Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/platform/mod.rs:
+/Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/platform/unix/mod.rs:
+/Users/jangdawit/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.2/src/signal.rs:
